@@ -1,0 +1,26 @@
+{
+  "name": "youtubeGallery",
+  "version": "1.0.0",
+  "description": "simple stciky_note",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "ellenKate",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "firebase": "^5.8.4",
+    "jquery": "^3.3.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
